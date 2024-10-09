@@ -1,0 +1,12 @@
+**Add the code on github
+
+git init 
+git add .
+git commit -m "some message"
+git remote add origin  <-give the link ->
+git push -u origin master
+
+
+
+** clone the repository on vs code on 
+clone <- give the your github link 
